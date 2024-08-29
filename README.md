@@ -1,4 +1,4 @@
-# Coffee_Shop Static Web-Project
+# Coffee_Shop Static Web Project
 
 ![Coffee Shop](path-to-your-image.jpg)
 
