@@ -83,5 +83,5 @@ For any questions, feel free to reach out:
 
 - **Name**: GAURI TYAGI
 - **Email**: gaurityagi7524@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/gauri-tyagi-608291194/)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/gauri-tyagi-608291194/)
 
