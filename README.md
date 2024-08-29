@@ -1,6 +1,6 @@
 # Coffee_Shop Static Web Project
 
-![Coffee Shop](path-to-your-image.jpg)
+![Coffee Shop](img/picture1.jpg)
 
 ## Table of Contents
 
