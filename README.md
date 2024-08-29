@@ -21,7 +21,7 @@ This is a static website for a coffee shop. The website showcases the menu, loca
 - **About Us**: A page that tells the story of the coffee shop, its mission, and values.
 - **Contact Form**: A contact page with a form for customers to get in touch with the shop for any inquiries.
 
-###Demo-Work
+### Demo-Work
 ![Coffee Shop](img/picture1.png)
 ![Coffee Shop](img/picture2.png)
 ![Coffee Shop](img/picture3.png)
